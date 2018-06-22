@@ -1,0 +1,2 @@
+# django-mezzanine
+CMS framework
